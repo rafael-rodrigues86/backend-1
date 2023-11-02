@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "07 Nov 2014",
+    "Runtime": "169 min",
+    "Genre": "Comedy",
+    "Director": "Christopher Nolan",
+    "Writer": "Jonathan Nolan, Christopher Nolan",
+    "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+    "Plot": "teste2",
+    "Language": "English",
+    "Country": "United States, United Kingdom, Canada",
+    "Awards": "Won 1 Oscar. 44 wins & 148 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "73%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "74/100"
+      }
+    ],
+    "Metascore": "90",
+    "imdbRating": "8.7",
+    "imdbVotes": "1,995,560",
+    "imdbID": "tt0816692",
+    "Type": "movie",
+    "DVD": "24 May 2016",
+    "BoxOffice": "$188,020,017",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 2,
+    "Title": "Gladiator",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "05 May 2000",
+    "Runtime": "155 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Ridley Scott",
+    "Writer": "David Franzoni, John Logan, William Nicholson",
+    "Actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+    "Plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "Language": "English",
+    "Country": "United States, United Kingdom, Malta, Morocco",
+    "Awards": "Won 5 Oscars. 60 wins & 104 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Metascore": "67",
+    "imdbRating": "8.5",
+    "imdbVotes": "1,566,334",
+    "imdbID": "tt0172495",
+    "Type": "movie",
+    "DVD": "15 Jun 2011",
+    "BoxOffice": "$187,705,427",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 3,
+    "Title": "Inception",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "16 Jul 2010",
+    "Runtime": "148 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+    "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "Language": "English, Japanese, French",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 4 Oscars. 159 wins & 220 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "74/100"
+      }
+    ],
+    "Metascore": "74",
+    "imdbRating": "8.8",
+    "imdbVotes": "2,473,581",
+    "imdbID": "tt1375666",
+    "Type": "movie",
+    "DVD": "20 Jun 2013",
+    "BoxOffice": "$292,587,330",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 4,
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Rated": "R",
+    "Released": "24 Mar 1972",
+    "Runtime": "175 min",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Mario Puzo, Francis Ford Coppola",
+    "Actors": "Marlon Brando, Al Pacino, James Caan",
+    "Plot": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+    "Language": "English, Italian, Latin",
+    "Country": "United States",
+    "Awards": "Won 3 Oscars. 30 wins & 31 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "100/100"
+      }
+    ],
+    "Metascore": "100",
+    "imdbRating": "9.2",
+    "imdbVotes": "1,954,449",
+    "imdbID": "tt0068646",
+    "Type": "movie",
+    "DVD": "01 Aug 2013",
+    "BoxOffice": "$136,381,073",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 5,
+    "Title": "Avatar",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "18 Dec 2009",
+    "Runtime": "162 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "James Cameron",
+    "Writer": "James Cameron",
+    "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+    "Plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Won 3 Oscars. 90 wins & 131 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "81%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.9",
+    "imdbVotes": "1,361,917",
+    "imdbID": "tt0499549",
+    "Type": "movie",
+    "DVD": "10 Feb 2016",
+    "BoxOffice": "$785,221,649",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 6,
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "14 Oct 1994",
+    "Runtime": "154 min",
+    "Genre": "Crime, Drama",
+    "Director": "Quentin Tarantino",
+    "Writer": "Quentin Tarantino, Roger Avary",
+    "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+    "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "Language": "English, Spanish, French",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 69 wins & 72 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "95/100"
+      }
+    ],
+    "Metascore": "95",
+    "imdbRating": "8.9",
+    "imdbVotes": "2,151,243",
+    "imdbID": "tt0110912",
+    "Type": "movie",
+    "DVD": "21 Apr 2016",
+    "BoxOffice": "$107,928,762",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 7,
+    "Title": "The Shining",
+    "Year": "1980",
+    "Rated": "R",
+    "Released": "13 Jun 1980",
+    "Runtime": "146 min",
+    "Genre": "Drama, Horror",
+    "Director": "Stanley Kubrick",
+    "Writer": "Stephen King, Stanley Kubrick, Diane Johnson",
+    "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+    "Plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "6 wins & 8 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "8.4",
+    "imdbVotes": "1,070,703",
+    "imdbID": "tt0081505",
+    "Type": "movie",
+    "DVD": "15 Aug 2008",
+    "BoxOffice": "$45,634,352",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 8,
+    "Title": "Ghostbusters",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "08 Jun 1984",
+    "Runtime": "105 min",
+    "Genre": "Action, Comedy, Fantasy",
+    "Director": "Ivan Reitman",
+    "Writer": "Dan Aykroyd, Harold Ramis, Rick Moranis",
+    "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+    "Plot": "Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 2 Oscars. 7 wins & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.8",
+    "imdbVotes": "432,772",
+    "imdbID": "tt0087332",
+    "Type": "movie",
+    "DVD": "16 Apr 2012",
+    "BoxOffice": "$243,578,797",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 9,
+    "Title": "Fast and Furious",
+    "Year": "1939",
+    "Rated": "Passed",
+    "Released": "06 Oct 1939",
+    "Runtime": "73 min",
+    "Genre": "Comedy, Crime, Mystery",
+    "Director": "Busby Berkeley",
+    "Writer": "Harry Kurnitz",
+    "Actors": "Franchot Tone, Ann Sothern, Ruth Hussey",
+    "Plot": "Rare book dealers Joel and Garda take a summertime jaunt to the seashore where he becomes involved in a beauty pageant as investor and judge much to her chagrin.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNTQ1NjA3Ml5BMl5BanBnXkFtZTgwOTIyNjIxMzE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "861",
+    "imdbID": "tt0031298",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 10,
+    "Title": "Teste"
+  },
+  {
+    "id": 11,
+    "Title": "Avatar 2: The Way of Water. Poetic Version",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "10 Nov 2022",
+    "Runtime": "N/A",
+    "Genre": "Short, Action, Adventure",
+    "Director": "Nikolai Kurbatov",
+    "Writer": "Nikolai Kurbatov",
+    "Actors": "N/A",
+    "Plot": "N/A",
+    "Language": "Russian",
+    "Country": "Russia",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt27788293",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 12,
+    "Title": "Filme Teste"
+  },
+  {
+    "id": 13,
+    "Title": "Matrix",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzUzOTA5ZTMtMTdlZS00MmQ5LWFmNjEtMjE5MTczN2RjNjE3XkEyXkFqcGdeQXVyNTc2ODIyMzY@._V1_SX300.jpg",
+    "Plot": "Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix \\\"dies\\\" and finds himself in \\\"The City In Between\\\", where he is ...",
+    "Genre": "Drama",
+    "Director": "John Doe"
+  }
+]
