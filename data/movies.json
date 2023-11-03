@@ -6,7 +6,7 @@
     "Rated": "PG-13",
     "Released": "07 Nov 2014",
     "Runtime": "169 min",
-    "Genre": "Comedy",
+    "Genre": "horror",
     "Director": "Christopher Nolan",
     "Writer": "Jonathan Nolan, Christopher Nolan",
     "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
@@ -29,7 +29,7 @@
         "Value": "74/100"
       }
     ],
-    "Metascore": "90",
+    "Metascore": "99",
     "imdbRating": "8.7",
     "imdbVotes": "1,995,560",
     "imdbID": "tt0816692",
@@ -70,7 +70,7 @@
         "Value": "67/100"
       }
     ],
-    "Metascore": "67",
+    "Metascore": "20",
     "imdbRating": "8.5",
     "imdbVotes": "1,566,334",
     "imdbID": "tt0172495",
@@ -88,7 +88,7 @@
     "Rated": "PG-13",
     "Released": "16 Jul 2010",
     "Runtime": "148 min",
-    "Genre": "Action, Adventure, Sci-Fi",
+    "Genre": "Testando",
     "Director": "Christopher Nolan",
     "Writer": "Christopher Nolan",
     "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
@@ -111,7 +111,7 @@
         "Value": "74/100"
       }
     ],
-    "Metascore": "74",
+    "Metascore": 80,
     "imdbRating": "8.8",
     "imdbVotes": "2,473,581",
     "imdbID": "tt1375666",
@@ -170,7 +170,7 @@
     "Rated": "PG-13",
     "Released": "18 Dec 2009",
     "Runtime": "162 min",
-    "Genre": "Action, Adventure, Fantasy",
+    "Genre": "Suspense",
     "Director": "James Cameron",
     "Writer": "James Cameron",
     "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
@@ -193,7 +193,7 @@
         "Value": "83/100"
       }
     ],
-    "Metascore": "83",
+    "Metascore": "50",
     "imdbRating": "7.9",
     "imdbVotes": "1,361,917",
     "imdbID": "tt0499549",
@@ -211,7 +211,7 @@
     "Rated": "R",
     "Released": "14 Oct 1994",
     "Runtime": "154 min",
-    "Genre": "Crime, Drama",
+    "Genre": "Crime",
     "Director": "Quentin Tarantino",
     "Writer": "Quentin Tarantino, Roger Avary",
     "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
@@ -234,128 +234,13 @@
         "Value": "95/100"
       }
     ],
-    "Metascore": "95",
+    "Metascore": "92",
     "imdbRating": "8.9",
     "imdbVotes": "2,151,243",
     "imdbID": "tt0110912",
     "Type": "movie",
     "DVD": "21 Apr 2016",
     "BoxOffice": "$107,928,762",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "id": 7,
-    "Title": "The Shining",
-    "Year": "1980",
-    "Rated": "R",
-    "Released": "13 Jun 1980",
-    "Runtime": "146 min",
-    "Genre": "Drama, Horror",
-    "Director": "Stanley Kubrick",
-    "Writer": "Stephen King, Stanley Kubrick, Diane Johnson",
-    "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
-    "Plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
-    "Language": "English",
-    "Country": "United Kingdom, United States",
-    "Awards": "6 wins & 8 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.4/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "83%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "66/100"
-      }
-    ],
-    "Metascore": "66",
-    "imdbRating": "8.4",
-    "imdbVotes": "1,070,703",
-    "imdbID": "tt0081505",
-    "Type": "movie",
-    "DVD": "15 Aug 2008",
-    "BoxOffice": "$45,634,352",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "id": 8,
-    "Title": "Ghostbusters",
-    "Year": "1984",
-    "Rated": "PG",
-    "Released": "08 Jun 1984",
-    "Runtime": "105 min",
-    "Genre": "Action, Comedy, Fantasy",
-    "Director": "Ivan Reitman",
-    "Writer": "Dan Aykroyd, Harold Ramis, Rick Moranis",
-    "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
-    "Plot": "Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.",
-    "Language": "English",
-    "Country": "United States",
-    "Awards": "Nominated for 2 Oscars. 7 wins & 9 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.8/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "95%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "71/100"
-      }
-    ],
-    "Metascore": "71",
-    "imdbRating": "7.8",
-    "imdbVotes": "432,772",
-    "imdbID": "tt0087332",
-    "Type": "movie",
-    "DVD": "16 Apr 2012",
-    "BoxOffice": "$243,578,797",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "id": 9,
-    "Title": "Fast and Furious",
-    "Year": "1939",
-    "Rated": "Passed",
-    "Released": "06 Oct 1939",
-    "Runtime": "73 min",
-    "Genre": "Comedy, Crime, Mystery",
-    "Director": "Busby Berkeley",
-    "Writer": "Harry Kurnitz",
-    "Actors": "Franchot Tone, Ann Sothern, Ruth Hussey",
-    "Plot": "Rare book dealers Joel and Garda take a summertime jaunt to the seashore where he becomes involved in a beauty pageant as investor and judge much to her chagrin.",
-    "Language": "English",
-    "Country": "United States",
-    "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNTQ1NjA3Ml5BMl5BanBnXkFtZTgwOTIyNjIxMzE@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.1/10"
-      }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "6.1",
-    "imdbVotes": "861",
-    "imdbID": "tt0031298",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
@@ -394,14 +279,135 @@
   },
   {
     "id": 12,
-    "Title": "Filme Teste"
+    "Title": "Blade Runner",
+    "Year": "1982",
+    "Rated": "R",
+    "Released": "25 Jun 1982",
+    "Runtime": "117 min",
+    "Genre": "Action, Drama, Sci-Fi",
+    "Director": "Ridley Scott",
+    "Writer": "Hampton Fancher, David Webb Peoples, Philip K. Dick",
+    "Actors": "Harrison Ford, Rutger Hauer, Sean Young",
+    "Plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+    "Language": "English, German, Cantonese, Japanese, Hungarian, Arabic, Korean",
+    "Country": "United States, United Kingdom",
+    "Awards": "Nominated for 2 Oscars. 13 wins & 21 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "8.1",
+    "imdbVotes": "801,677",
+    "imdbID": "tt0083658",
+    "Type": "movie",
+    "DVD": "09 Jun 2013",
+    "BoxOffice": "$32,914,489",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   },
   {
     "id": 13,
-    "Title": "Matrix",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzUzOTA5ZTMtMTdlZS00MmQ5LWFmNjEtMjE5MTczN2RjNjE3XkEyXkFqcGdeQXVyNTc2ODIyMzY@._V1_SX300.jpg",
-    "Plot": "Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix \\\"dies\\\" and finds himself in \\\"The City In Between\\\", where he is ...",
-    "Genre": "Drama",
-    "Director": "John Doe"
+    "Title": "Iron Man",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "02 May 2008",
+    "Runtime": "126 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Jon Favreau",
+    "Writer": "Mark Fergus, Hawk Ostby, Art Marcum",
+    "Actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+    "Plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "Language": "English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",
+    "Country": "United States, Canada",
+    "Awards": "Nominated for 2 Oscars. 22 wins & 73 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      { "Source": "Internet Movie Database", "Value": "7.9/10" },
+      { "Source": "Rotten Tomatoes", "Value": "94%" },
+      { "Source": "Metacritic", "Value": "79/100" }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.9",
+    "imdbVotes": "1,099,306",
+    "imdbID": "tt0371746",
+    "Type": "movie",
+    "DVD": "01 Mar 2013",
+    "BoxOffice": "$319,034,126",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 14,
+    "Title": "The Matrix",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "31 Mar 1999",
+    "Runtime": "136 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Writer": "Lilly Wachowski, Lana Wachowski",
+    "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "Language": "English",
+    "Country": "United States, Australia",
+    "Awards": "Won 4 Oscars. 42 wins & 52 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+      { "Source": "Internet Movie Database", "Value": "8.7/10" },
+      { "Source": "Rotten Tomatoes", "Value": "83%" },
+      { "Source": "Metacritic", "Value": "73/100" }
+    ],
+    "Metascore": "73",
+    "imdbRating": "8.7",
+    "imdbVotes": "1,999,515",
+    "imdbID": "tt0133093",
+    "Type": "movie",
+    "DVD": "01 Jan 2009",
+    "BoxOffice": "$172,076,928",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "id": 15,
+    "Title": "Making Of: Tropa de Elite 2",
+    "Year": "2011",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "61 min",
+    "Genre": "Documentary",
+    "Director": "Alexandre Lima",
+    "Writer": "Marco Antonelli, Alexandre Lima",
+    "Actors": "Rod Carvalho, Milhem Cortaz, Wagner Moura",
+    "Plot": "Documentary that intertwines the traditional register of a making of with the subjects discussed in the film Elite Squad 2: The Enemy Within (2010). The film gathers interviews by director José Padilha, actor Wagner Moura, as well...",
+    "Language": "Portuguese",
+    "Country": "Brazil",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGNkNGU5YzctODgyOC00Mzc2LWJlN2MtZGJiZDJmZGE2MWZhXkEyXkFqcGdeQXVyMTUxMjkwMDg@._V1_SX300.jpg",
+    "Ratings": [{ "Source": "Internet Movie Database", "Value": "7.5/10" }],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "77",
+    "imdbID": "tt4720736",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   }
 ]
